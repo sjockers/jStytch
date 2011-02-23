@@ -1,0 +1,3 @@
+A simple, generic, cookie-based style switcher, built as a jQuery plugin.
+
+Description and usage example to come.
